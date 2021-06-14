@@ -1,0 +1,183 @@
+Program:
+	A set of statements arranged in an orderly fashion to get the
+	result is called a program.
+
+
+
+
+
+Software
+
+1)Application Software
+2)System software
+3)Operating Systems
+4) Development Software/General Software
+
+Language: A computer language is one in which programs must be written to get the result.
+
+
+
+					HTML
+
+
+Hyper Text MarkUp Language
+
+Hypertext means that the document contains links that allow the reader to jump to other places in the document or to another document altogether.
+
+Developed by Tim Bernes Lee
+
+Static Markup Language used to develop static web pages.
+
+W3C(World Wide Web Consortium)
+
+The latest version is known as HTML5.
+
+
+A Markup Language is a way that computers speak to each other to control how text is processed and presented. To do this HTML uses two things: tags and attributes.
+
+structure of html
+
+<!doctype html>
+<html>
+<head>
+<title>...............</title>
+<meta charset="UTF-8">
+</head>
+<body>
+.....................
+....................
+.....</body>
+</html>
+
+
+
+Tag: A html tag is a command placed in between the brackets.
+
+Ex: <h1>.....</h1>
+    opening   closing
+
+HTML Attributes: Attributes contain additional pieces of information. Attributes take the form of an opening tag and additional info is placed inside.
+
+Ex: <h1 align="center">COMPUTER FUNDAMENTALS</h1>
+
+
+
+press windowskey+r
+type notepad
+press enter
+type the code
+
+<!doctype html>
+<html>
+<head>
+<title>demo</title>
+<meta charset="UTF-8">
+</head>
+<body>
+Today I started learning html and learning html is fun.
+</body>
+</html>
+
+press ctrl+s
+click desktop
+
+File name: demo.html
+Save as Type: All File(*.*)
+press enter
+
+
+Execution: double click the file on desktop
+
+
+
+
+
+<!doctype html>
+<html>
+<head>
+<title>demo</title>
+<meta charset="UTF-8">
+</head>
+<body>
+<h1>Coding is Fun</h1>
+<h2>Coding is Fun</h2>
+<h3>Coding is Fun</h3>
+<h4>Coding is Fun</h4>
+<h5>Coding is Fun</h6>
+<h6>Coding is Fun</h6>
+	The above are 6 different sizes of headings
+</body>
+</html>
+
+<!doctype html>
+<html>
+<head>
+<title>demo</title>
+<meta charset="UTF-8">
+</head>
+<body>
+<h1 align="center">Coding is Fun</h1>
+<h2 align="left">Coding is Fun</h2>
+<h3 align="right">Coding is Fun</h3>
+	The above are 6 different sizes of headings
+</body>
+</html>
+
+
+
+
+<!doctype html>
+<html>
+<head>
+<title>homepage</title>
+<meta charset="UTF-8">
+</head>
+<body>
+<h1>Computer Fundamentals</h1>
+Computer:
+<p>Computer is an electronic device which is used to perform arithmetical and logical
+operations. The word computer is derived from the Greek word compute which means to calculate.</p>
+
+<p>Characteristics of computer</br>
+speed</br>
+accuracy</br>
+diligence</br>
+iq<br>
+versatility<br>
+feeings<br>
+storage
+</p>
+</body>
+</html>
+
+
+
+
+<!doctype html>
+<html>
+<head>
+<title>homepage</title>
+<meta charset="UTF-8">
+</head>
+<body>
+<h1><font face="impact" color="green">Computer Fundamentals</font></h1>
+Computer:
+<p>Computer is an electronic device which is used to perform arithmetical and logical
+operations. The word computer is derived from the Greek word compute which means to calculate.</p>
+
+<p>Characteristics of computer</br>
+speed</br>
+accuracy</br>
+diligence</br>
+iq<br>
+versatility<br>
+feeings<br>
+storage
+</p>
+</body>
+</html>
+
+
+
+
+

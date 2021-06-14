@@ -1,0 +1,172 @@
+computer:
+	Computer is an electronic device which does both arithmetical and logical
+	operations.
+				(or)
+	Computer is an electronic device which accepts data as input,processes it,stores
+	it and gives the output/infomation
+
+
+		Data-->Processing-->store-->Output/information
+		(Input)
+
+
+Data:
+	The collection of alphabets,numbers and alpha numericals is called data.
+
+			(or)
+
+	The collection of facts and figures is called data.
+
+
+
+Processing: This will be done inside the central processing unit(CPU)/Microprocessor
+
+			Human Language->Machine Language-->Human Language
+
+
+Storage:	(primary)
+		Temporary:	RAM				
+
+		(Secondary):	PEN DRIVE,MEMORY CARD,Hard Disk..	
+		Permanent
+
+
+File:
+	A file is one which contains some data in it
+
+			(or)
+
+	A file is a collection of records.
+
+
+
+The study of computer is divided into
+
+1) Hardware: - Physical Parts
+
+2) Firmware: - program that controls hardware
+
+3) Software: - A set of programs that runs on hardware which is used to give the solution/result
+
+
+
+1) 1 tier: Notepad,wordpad,paint,calculator...
+In this architecture, all the processing is done on single machine i.e. 
+every tier resides on single machine.which can be a mainframe and are accessed by dumb terminals.
+
+
+2) 2 Tier: Contacts App
+
+In this architecture an application is broken down in two roles which are played by two different machines commonly a client and
+a server. 
+In this architecture, business logic can reside on either client machine or server machine. 
+If Business logic resides on server than server is called Fat server because it will be managing database related and business 
+logic related queries and in other case if business logic resides on client machine then machine is called Fat Client 
+because in this case client machine has to deal with client related and Business logic related queries.
+
+
+3) 3 Tier: 
+
+In 3 tier architecture, application is divided into three parts which resides on three different machines 
+First tier will be user interface i.e. the presentation tier.
+It communicates with other tiers in order to display information to client. 
+Second will be business logic tier known as middle tier, it will control the application by processing the business logic.
+And third will be the database tier. This tier consists of database servers where info is stored and retrieved.
+this tier will be handling database related queries .
+
+
+4) N-Tier: 
+
+multi-tier architecture (often referred to as n-tier architecture) is a client–server architecture in which presentation,
+application processing, and data management functions are logically separated.
+The most widespread use of multi-tier architecture is the three-tier architecture. 
+N-tier application architecture provides a model by which developers can create flexible and reusable applications. 
+By segregating an application into tiers, developers acquire the option of modifying or adding a specific layer, 
+instead of reworking the entire application.
+
+
+
+5) MVC: Model View Control
+
+Model–view–controller (usually known as MVC) is a software design pattern commonly used for developing user interfaces 
+that divides the related program logic into three interconnected elements. 
+This is done to separate internal representations of information from the ways information is presented to and accepted from the user.
+
+
+Network:
+
+	A group of computers connected together is called a network where a server serves and a client requests.
+
+				
+1) LAN: Local Area Network
+2) WAN: Wide Area Network
+3) MAN: Metropolitan Area Network
+4) PAN: Personal Area Network
+5) CAN: Campus Area Network
+6) SAN: Storage Area Nework
+7) DAN: Desk Area Network
+8) FAN: File Area Network
+9) SAN: Systems Area Network
+10) EPN: Enterprise Private Network
+11) WLAN: Wireless Local Area Network
+12) VPN: Virtual Private Network
+13) POLAN: passive Optical Local Area Network
+
+
+Intranet:
+	It is a type of internet which is established between a head office and its branch offices to securely
+	share the file
+
+
+Internet:
+	Network of networks is called internet.
+
+		
+Website:
+	A group of related webpages that belongs to an organization or an individual that are stored under 
+	a name is called a website.
+	
+
+URL:
+	Unicode resoursee locator
+	Uniform Resourse locator
+
+	       Domain   Domain       Domain
+	       Prefix   name         Suffix
+	https://www.brilliantcomputers.in/courses/latest/python.html
+ protocol				   folder   folder   file
+
+
+
+					HTML
+
+
+
+
+
+Domain:
+A domain name is essentially your website’s equivalent of a physical address. In the same way that a GPS needs a street address or a zipcode to provide directions, a web browser needs a domain name to direct you to a website.
+
+
+		Hostinger.com 	domain name. 
+		100.90.80.70   ip address
+
+
+Subdomain:
+
+A subdomain is an additional part to your main domain name. Subdomains are created to organize and navigate to different sections of your website. You can create multiple subdomains or child domains on your main domain.
+
+For example:
+
+		brilliantcomputers.000webhost.com
+	         subdomain          domain
+
+
+
+
+
+
+
+
+
+
